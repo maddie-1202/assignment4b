@@ -6,6 +6,7 @@ body {
   margin: 0;
   padding: 0;
   }
+
   .container {
     text-align: center;
     margin-top:250px;
@@ -44,6 +45,6 @@ body {
   }
 .btn1 {
   text-shadow: 1px 1px 1px black;
-  border-radius: 50%;
+  border-radius: 20px;
   box-shadow: 2px 2px 5px 2px black;
 }
